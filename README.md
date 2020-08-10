@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## My name is Jonathan Alphabert a.k.a JohnforJC
 
@@ -7,7 +7,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: [instagram](https://www.instagram.com/jonathan_alpha/)
 
-:boy: Let's talk about me
+### :boy: Let's talk about me
 
 - :keyboard: Very exiciting with programming
 - :computer: Learn about web development either front end or back end
