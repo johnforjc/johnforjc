@@ -9,7 +9,7 @@
 
 :boy: Let's talk about me
 
--:keyboard: Very exiciting with programming
--:computer: Learn about web development either front end or back end
--:books: It's never too late to learn anything you want is my principal
--:tv: No anime no life :rofl:
+- :keyboard: Very exiciting with programming
+- :computer: Learn about web development either front end or back end
+- :books: It's never too late to learn anything you want is my principal
+- :tv: No anime no life :rofl:
