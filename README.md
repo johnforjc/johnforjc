@@ -5,7 +5,7 @@
 - 🔭 I’m currently study on Institut Techonolgy Sepuluh Nopember
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about anything
-- 📫 How to reach me: Instagram [instagram]
+- 📫 How to reach me: [instagram]
 
 :boy: Let's talk about me
 
@@ -15,4 +15,4 @@
 :tv: No anime no life :rofl:
 
 
-[instagram] = (https://www.instagram.com/jonathan_alpha/)
+[instagram]=>(https://www.instagram.com/jonathan_alpha/)
