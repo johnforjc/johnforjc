@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋]
 
-<!--
-**johnforjc/johnforjc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Jonathan Alphabert a.k.a JohnforJC
 
-Here are some ideas to get you started:
+- 🔭 I’m currently study on Institut Techonolgy Sepuluh Nopember
+- 🌱 I’m currently learning React.js
+- 💬 Ask me about anything
+- 📫 How to reach me: Instagram[instagram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:boy: Let's talk about me
+
+:keyboard: Very exiciting with programming
+:computer: Learn about web development either front end or back end
+:books: It's never too late to learn anything you want is my principal
+:tv: No anime no life :rofl:
+
+
+[instagram] = https://www.instagram.com/jonathan_alpha/
