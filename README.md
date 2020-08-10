@@ -15,4 +15,4 @@
 :tv: No anime no life :rofl:
 
 
-[instagram]=>(https://www.instagram.com/jonathan_alpha/)
+[instagram] => (https://www.instagram.com/jonathan_alpha/)
