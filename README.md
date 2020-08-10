@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [instagram](https://www.instagram.com/jonathan_alpha/)
+- :email: Message me: jonathanalphabert0504@gmail.com
 
 ### :boy: Let's talk about me
 
